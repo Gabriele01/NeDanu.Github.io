@@ -1,7 +1,14 @@
 @font-face {
-font-family: 'pixel_azure_bonds';
-src: url('pixel_azure_bonds-webfont.ttf');
-src: local('?'), url('pixel_azure_bonds-webfont.ttf') format('truetype'), url('pixel_azure_bonds.svg#webfont') format('svg');
-font-weight: normal;
-font-style: normal;
+  font-family: 'PixelAzureBonds';
+  src: url('./fonts/PixelAzureBonds.eot'); /* IE9 Compat Modes */
+  src: url('./fonts/PixelAzureBonds.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+
+
+    url('./fonts/PixelAzureBonds.ttf') format('truetype'), /* Safari, Android, iOS */
+  font-weight: normal;
+  font-style: normal;
+}
+body{
+   font-family:PixelAzureBonds
+   font-size: 12px;
 }
