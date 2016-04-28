@@ -1,0 +1,7 @@
+@font-face {
+font-family: 'pixel_azure_bonds';
+src: url('pixel_azure_bonds-webfont.ttf');
+src: local('?'), url('pixel_azure_bonds-webfont.ttf') format('truetype'), url('pixel_azure_bonds.svg#webfont') format('svg');
+font-weight: normal;
+font-style: normal;
+}
