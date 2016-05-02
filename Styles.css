@@ -6,7 +6,7 @@ body { background-color: black; }
    src: url(PixelAzureBonds.eot);
    src: local('PixeAzureBonds'), url('PixelAzureBonds.ttf') format('truetype');
 }
-h1{
+body {
    font-family:'PixelAzureBonds'
    font-size: 12px;
 }
