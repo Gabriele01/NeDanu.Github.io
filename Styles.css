@@ -19,8 +19,8 @@ ul#menu {
 }
   
 ul#menu li {
-    background-color: black;
-    border-bottom: 5px solid #lime;
+    background-color: lime;
+    border-bottom: 5px solid #black;
     display: block;
     width: 150px;
     height: 30px;
@@ -29,7 +29,7 @@ ul#menu li {
 }
   
 ul#menu li a {
-    color: blue;
+    color: white;
     display: block;
     font-weight: bold;
     line-height: 30px;
