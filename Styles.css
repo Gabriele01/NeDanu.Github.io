@@ -25,7 +25,7 @@ ul#menu li {
     width: 150px;
     height: 30px;
     margin: 2px;
-    float: left; /* elementi su singola riga */
+    float: center; /* elementi su singola riga */
 }
   
 ul#menu li a {
