@@ -29,7 +29,7 @@ ul#menu li {
 }
   
 ul#menu li a {
-    color: white;
+    color: blue;
     display: block;
     font-weight: bold;
     line-height: 30px;
@@ -40,6 +40,6 @@ ul#menu li a {
 }
   
 ul#menu li.active, ul#menu li:hover {
-    background-color: #000000;
-    border-bottom: 5px solid black;
+    background-color: lime;
+    border-bottom: 5px solid lime;
 }
