@@ -19,7 +19,7 @@ ul#menu {
 }
   
 ul#menu li {
-    background-color: #ff1234;
+    background-color: grey;
     border-bottom: 5px solid #000000;
     display: block;
     width: 150px;
