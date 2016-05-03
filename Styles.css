@@ -20,7 +20,7 @@ ul#menu {
   
 ul#menu li {
     background-color: black;
-    border-bottom: 5px solid #000000;
+    border-bottom: 5px solid #lime;
     display: block;
     width: 150px;
     height: 30px;
@@ -29,7 +29,7 @@ ul#menu li {
 }
   
 ul#menu li a {
-    color: lime;
+    color: white;
     display: block;
     font-weight: bold;
     line-height: 30px;
@@ -41,5 +41,5 @@ ul#menu li a {
   
 ul#menu li.active, ul#menu li:hover {
     background-color: #000000;
-    border-bottom: 5px solid #FF831C;
+    border-bottom: 5px solid black;
 }
