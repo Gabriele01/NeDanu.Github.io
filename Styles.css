@@ -34,7 +34,7 @@ div#menu li.active, ul#menu li:hover {
     background-color: black;
     border-bottom: 5px solid lime;
 }
-ul#menu li:onclick {
+div#menu li:onclick {
 background-color: black;
 }
 
