@@ -1,16 +1,7 @@
 li {list-style: none;}
 body { background-color: black; }
 
-@font-face {
-   font-family: 'PixelAzureBonds';
-   src: url(PixelAzureBonds.eot);
-   src: local('PixeAzureBonds'), url('PixelAzureBonds.ttf') format('truetype');
-}
-body {
-   font-family:'PixelAzureBonds'
-   font-size: 12px;
-}
-ul#menu {
+div#menu {
     font-family: Verdana, sans-serif;
     font-size: 11px;
     margin: 0;
@@ -18,7 +9,7 @@ ul#menu {
     list-style: none;
 }
   
-ul#menu li {
+div#menu li {
     background-color: lime;
     border-bottom: 5px solid #black;
     display: block;
@@ -28,7 +19,7 @@ ul#menu li {
     float: left; /* elementi su singola riga */
 }
   
-ul#menu li a {
+div#menu li a {
     color: white;
     display: block;
     font-weight: bold;
@@ -39,7 +30,7 @@ ul#menu li a {
     text-align: center;
 }
   
-ul#menu li.active, ul#menu li:hover {
+div#menu li.active, ul#menu li:hover {
     background-color: black;
     border-bottom: 5px solid lime;
 }
