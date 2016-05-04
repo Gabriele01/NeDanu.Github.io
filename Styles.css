@@ -43,3 +43,9 @@ ul#menu li.active, ul#menu li:hover {
     background-color: black;
     border-bottom: 5px solid lime;
 }
+
+
+div#menu li ul
+{
+    display: none
+}
