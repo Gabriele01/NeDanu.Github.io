@@ -52,6 +52,7 @@ div#menu li:hover ul
     margin: 0 0 0 -1px;
     border:1px solid black;
     background: none;
+    text-align: center;
 }
 div#menu li li   { border:none; width:150px; } 
 div#menu li li a { padding:2px 2px 2px 10px; }
