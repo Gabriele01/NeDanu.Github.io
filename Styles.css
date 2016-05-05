@@ -10,7 +10,6 @@ h3 {
     font-family: "PixelAzureBonds";
 }
 div#menu {
-   -webkit-text-fill-color: white;
    -webkit-text-stroke-width: 1px;
    -webkit-text-stroke-color: black;
 }
