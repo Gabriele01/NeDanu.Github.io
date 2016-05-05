@@ -6,7 +6,7 @@ body { background-color: black; }
    src: local("PixelAzureBonds"), url("PixelAzureBonds.ttf") format("truetype");
 }
 
-p {
+h3 {
     font-family: "Times New Roman";
 }
 div#menu {
