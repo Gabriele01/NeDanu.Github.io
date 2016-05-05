@@ -51,7 +51,7 @@ div#menu li:hover ul
     padding: 0;
     margin: 0 ;
     border:1px solid black;
-    background: none;
+    background: green;
     text-align: center;
 }
 div#menu li li   { border:none; width:150px; } 
