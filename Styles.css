@@ -1,5 +1,10 @@
 li {list-style: none;}
 body { background-color: black; }
+@font-face {
+   font-family: "PixelAzureBonds";
+   src: url(PixelAzureBonds.eot);
+   src: local("PixelAzureBonds"), url("PixelAzureBonds.ttf") format("truetype");
+}
 
 p {
     font-family: "Times New Roman";
