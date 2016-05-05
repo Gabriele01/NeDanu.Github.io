@@ -49,7 +49,7 @@ div#menu li:hover ul
     z-index:1;
     width:150px;
     padding: 0;
-    margin: 0 0 0 -1px;
+    margin: 0 ;
     border:1px solid black;
     background: none;
     text-align: center;
