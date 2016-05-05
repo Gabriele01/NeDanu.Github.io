@@ -1,8 +1,11 @@
 li {list-style: none;}
 body { background-color: black; }
 
+p {
+    font-family: "Times New Roman", Times, serif;
+}
 div#menu {
-    font-family: Verdana, sans-serif;
+    font-family: " Times New Roman", Times, serif;
     font-size: 11px;
     margin: 0;
     padding: 0;
