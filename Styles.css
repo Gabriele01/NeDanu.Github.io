@@ -27,7 +27,7 @@ h6 {
     font-family: "PixelAzureBonds";
 }
 body {
-background: url('#');
+background-color: black;
 background-repeat: no-repeat;
 background-position: 0 0;
 -moz-background-size: cover;
