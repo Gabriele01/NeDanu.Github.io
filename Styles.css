@@ -8,10 +8,35 @@ body { background-color: black; }
    src: url(PixelAzureBonds.eot);
    src: local("PixelAzureBonds"), url("PixelAzureBonds.ttf") format("truetype");
 }
-
+h1 {
+    font-family: "PixelAzureBonds";
+}
+h2 {
+    font-family: "PixelAzureBonds";
+}
 h3 {
     font-family: "PixelAzureBonds";
 }
+h4 {
+    font-family: "PixelAzureBonds";
+}
+h5 {
+    font-family: "PixelAzureBonds";
+}
+h6 {
+    font-family: "PixelAzureBonds";
+}
+
+
+
+
+
+
+
+
+
+
+
 div#menu {
     font-family: "PixelAzureBonds";
     font-size: 15px;
