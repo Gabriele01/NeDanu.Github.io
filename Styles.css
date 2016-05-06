@@ -27,7 +27,7 @@ h6 {
     font-family: "PixelAzureBonds";
 }
 body {
-background: url('http://www.themainstreetmouse.com/wp-content/uploads/2015/05/finding-nemo-background_e2d3905e.jpeg');
+background: url('#');
 background-repeat: no-repeat;
 background-position: 0 0;
 -moz-background-size: cover;
